@@ -1,14 +1,14 @@
-## Project Name:
-# Book Box
+## Project Name
+Book Box
 
 ## Description
 Book Box is an Android application developed using Kotlin, designed to help users locate book boxes across the city. It integrates with the Google Maps API to provide a seamless experience for users looking for or adding book boxes. A key feature of the app is the barcode scanning functionality that allows users to scan book ISBNs for quick uploads and book box management.
 
 # Features:
-Integrated Google Maps API to display book box locations.
-Barcode scanning functionality to scan book ISBNs and upload them to book boxes.
-User-friendly interface for adding and managing book boxes.
-Provides navigation to the nearest book boxes based on user location.
+- Integrated Google Maps API to display book box locations.
+- Barcode scanning functionality to scan book ISBNs and upload them to book boxes.
+- User-friendly interface for adding and managing book boxes.
+- Provides navigation to the nearest book boxes based on user location.
 
 # Technologies Used:
 - Kotlin: For Android app development.
@@ -16,32 +16,31 @@ Provides navigation to the nearest book boxes based on user location.
 - ZXing Library: For barcode scanning (ISBN).
 
 # Installation:
-1- Clone the repository: git clone https://github.com/YourUsername/BookBox.git
-2- Open the project in Android Studio.
-3- Build and run the application on an Android device or emulator.
+- Clone the repository: git clone https://github.com/YourUsername/BookBox.git
+- Open the project in Android Studio.
+- Build and run the application on an Android device or emulator.
 
 # Usage:
 - Launch the app to see nearby book boxes on the map.
 - Use the barcode scanner to upload books by scanning the ISBN.
 - Explore and add new book boxes across the city.
 
-## Support
-Contact me on: basim@dal.ca
-
 ## Roadmap
 The application is ready to work right now but the has the room for more improvements and features to be added.
 
 ## Authors and acknowledgment
-Basim Al Bulushi
-Osama Al Suleimani
-Osama Al Balushi
-Mohammed Al Qassabi
-Mohammed Al Ajmi
-Hamed Al Saifi
-Mohammed Al Maimani
-Rajul Patel
-Riley Chamberlain
+- Basim Al Bulushi
+- Osama Al Suleimani
+- Osama Al Balushi
+- Mohammed Al Qassabi
+- Mohammed Al Ajmi
+- Hamed Al Saifi
+- Mohammed Al Maimani
+- Rajul Patel
+- Riley Chamberlain
 
+## Support
+Contact me on: basim@dal.ca
 
 # Resrouces: 
 "Firebase Console," Firebase. [Online]. Available: https://console.firebase.google.com/u/1/project/group-1-40481/settings/general/android:com.android.application. Accessed on: Mar. 31, 2024.
