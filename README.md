@@ -16,7 +16,7 @@ Book Box is an Android application developed using Kotlin, designed to help user
 - ZXing Library: For barcode scanning (ISBN).
 
 # Installation:
-- Clone the repository: git clone https://github.com/YourUsername/BookBox.git
+- Clone the repository: git clone https://github.com/Bulushi9/BookBox.git
 - Open the project in Android Studio.
 - Build and run the application on an Android device or emulator.
 
